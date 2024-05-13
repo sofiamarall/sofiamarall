@@ -1,7 +1,11 @@
-### Hi there 👋
+### boas vindas ao meu perfil 🍒
 
-<!--
-**sofiamarall/sofiamarall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Sofia Amaral
 
-welcome to  your profile
+- estou estadando no Alura;
+- estou me desenvolvendo na linguagem JavaScript
+-  utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
+
+
+ 
